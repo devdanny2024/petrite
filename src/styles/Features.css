@@ -1,0 +1,35 @@
+.feature-wrap{
+    background-image: url('../images/bg-treat.png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    height: 915px;
+}
+.treat-body{
+    margin: 4rem auto 1rem;
+    text-align: center;
+    width: 1000px;
+}
+.treat-body h1{
+    color: #d97706;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+.treat-body h3{
+    color: #0f172a;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 56px;
+    margin-bottom: .5rem;
+}
+.discover{
+    color: #0f172a;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 1rem;
+}

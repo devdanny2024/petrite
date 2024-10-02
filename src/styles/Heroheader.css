@@ -1,0 +1,41 @@
+.hero-wrap{
+    background-image: url('../images/herobig.png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    height: 724px;
+}
+
+.hero{
+    width: 100%;
+    display: flex;
+    gap: 100px;
+}
+.title{
+    margin-top: 108px;
+    margin-left: 80px;
+}
+.title h1{
+    font-size: 72px;
+    line-height: 85px;
+    color: #0f172a;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.title p{
+    font-size: 24px;
+    margin-top: 30px;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 20px;
+}
+.header-img{
+    margin-top: 108px;
+}
+.since{
+    margin-top: 6rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #0f172a;
+}
